@@ -1,0 +1,4 @@
+node_midules
+.dockerignore
+Dockerfile
+dist
